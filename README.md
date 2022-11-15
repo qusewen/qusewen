@@ -24,5 +24,5 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-<img src="https://www.codewars.com/users/rsschool_4bc629294c399453/badges/micro" title="Git" **alt="Git" width="300" height="80"/>
+<div><img src="https://www.codewars.com/users/rsschool_4bc629294c399453/badges/micro" title="Git" **alt="Git" width="300" height="80"/></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qusewen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
